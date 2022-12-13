@@ -1,0 +1,110 @@
+/* Globals */
+h1{
+    font-family: 'Rokkitt', serif;
+    font-size: 4rem;
+    color: white; 
+    font-weight: 400;
+}
+
+h2 {
+    font-family: 'Rokkitt', serif;
+    font-size:3rem;
+    color: gray; 
+}
+
+h3 {
+    font-family: 'Rokkitt', serif;
+    font-size:4rem;
+    color: rgb(255, 255, 255); 
+}
+
+h1 span{
+    font-weight: 800;
+    font-size: 5rem;
+}
+
+p,a,li {
+    font-family: 'Roboto', sans-serif;  
+    color: gray;
+    font-size: 1.3rem; 
+}
+
+
+/* Home */
+
+.menu{width: 100px;}
+
+
+
+
+.menu-body{width: 100px;
+}
+
+
+
+#home{
+    background-image: url(../images/bg_header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 100%;
+}
+
+.fa-pencil{
+    color: grey;
+}
+
+.fa-bookmark{
+    color:gray
+}
+
+.fa-camera{
+    color:gray
+}
+
+
+/* About */
+#about{
+    background-image: url(../images/bg_nuage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 100%;
+}
+
+
+/* Features */
+.cadre-bleu{
+    background-color: rgba(24, 113, 185, 0.514);
+    background-size: cover;
+    height: 800px;
+}
+
+.cadre-blanc{
+    color: white;
+    border: 1px solid white;
+    height: 100px;
+    width: 50px;
+    padding: 100px;
+    font-size: 1.5rem;
+}
+
+
+/* History */
+
+#history{
+    background-image:url(../images/bg_appareil_photo.jpg) ;
+    background-size: cover;
+    background-position: top;
+    height: 800px;
+}
+
+
+/* Photos */
+#photos{
+background-color: rgb(201, 201, 201);
+background-size: cover;
+background-repeat: no-repeat;
+height: 800px;
+width: 100%;
+}
